@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/025/353/478/original/abstract-horizon-view-city-in-continuous-line-art-drawing-style-minimalist-black-linear-sketch-isolated-on-white-background-illustration-vector.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Thomas Bazin</h1>
 <h3 align="center">A passionate software engineer student from Montreal, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4083525636/original/bEqqKAT6RYu1BGrwOc6wsP41xrZEzr3nzA.gif">
