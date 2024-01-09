@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210715/original/pngtree-blue-modern-city-skyline-business-banner-background-picture-image_1296687.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.shutterstock.com/image-vector/colorful-city-skyline-urban-panoramic-600nw-2343550945.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thomas Bazin</h1>
 <h3 align="center">A passionate software engineer student from Montreal, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4083525636/original/bEqqKAT6RYu1BGrwOc6wsP41xrZEzr3nzA.gif">
